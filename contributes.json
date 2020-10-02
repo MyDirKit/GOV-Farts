@@ -84,16 +84,6 @@
 		},
 		{
 			"keywords": [
-				"for",
-				"while"
-			],
-			"voices": [
-				"soundfiles/Loop-1.mp3",
-				"soundfiles/Loop-2.mp3"
-			]
-		},
-		{
-			"keywords": [
 				"if"
 			],
 			"voices": [
