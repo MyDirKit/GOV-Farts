@@ -156,6 +156,25 @@
 			"voices": [
 				"soundfiles/Catch.mp3"
 			]
+		},
+		{
+			"keywords": [
+				"parallel",
+				"parallelStream"
+			],
+			"voices": [
+				"soundfiles/Parallel.mp3"
+			]
+		}
+		,
+		{
+			"keywords": [
+				"consume",
+				"consumer"
+			],
+			"voices": [
+				"soundfiles/Consume.mp3"
+			]
 		}
 	]
 }
