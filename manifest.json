@@ -1,0 +1,15 @@
+{
+	"version": "1.0.0",
+	"name": "GOV-SHOWER-FARTS",
+	"display-name": "Farty Mc Fartface",
+	"avatar": "avatars/GOV-ligth.png",
+	"avatar-dark": "avatars/GOV-dark.png",
+	"description": "JustForFun",
+	"author": "SAN",
+	"gender": "male",
+	"locale": "en",
+	"languages": [
+		"java",
+		"javascript"
+	]
+}

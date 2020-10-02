@@ -1,0 +1,161 @@
+{
+	"contributes": [
+		{
+			"keywords": [
+				"$time_morning"
+			],
+			"voices": [
+				"soundfiles/Startup.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"$time_evening"
+			],
+			"voices": [
+				"soundfiles/Feierabend-1.mp3",
+				"soundfiles/Feierabend-2.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"$time_each_hour"
+			],
+			"voices": [
+				"soundfiles/EachHour-1.mp3",
+				"soundfiles/EachHour-2.mp3",
+				"soundfiles/EachHour-3.mp3",
+				"soundfiles/EachHour-4.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"byte",
+				"int",
+				"boolean",
+				"short",
+				"long",
+				"double",
+				"char",
+				"float"
+			],
+			"voices": [
+				"soundfiles/JavaPrimitives.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"@author"
+			],
+			"voices": [
+				"soundfiles/Author-1.mp3",
+				"soundfiles/Author-2.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"String",
+				"Boolean",
+				"Integer",
+				"Character"
+			],
+			"voices": [
+				"soundfiles/JavaTypes.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"xyz"
+			],
+			"voices": [
+				"soundfiles/Typo.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"yeet"
+			],
+			"voices": [
+				"soundfiles/Yeet.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"for",
+				"while"
+			],
+			"voices": [
+				"soundfiles/Loop-1.mp3",
+				"soundfiles/Loop-2.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"if"
+			],
+			"voices": [
+				"soundfiles/If.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"else"
+			],
+			"voices": [
+				"soundfiles/Else.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"main"
+			],
+			"voices": [
+				"soundfiles/Main.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"equals",
+				"=="
+			],
+			"voices": [
+				"soundfiles/Equals.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"throw",
+				"throws"
+			],
+			"voices": [
+				"soundfiles/Throw-1.mp3",
+				"soundfiles/Throw-2.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"//",
+				"/**"
+			],
+			"voices": [
+				"soundfiles/Comment.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"new"
+			],
+			"voices": [
+				"soundfiles/New.mp3"
+			]
+		},
+		{
+			"keywords": [
+				"catch"
+			],
+			"voices": [
+				"soundfiles/Catch.mp3"
+			]
+		}
+	]
+}
